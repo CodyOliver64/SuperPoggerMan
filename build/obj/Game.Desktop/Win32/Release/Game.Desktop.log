@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  BombTile.cpp
+  BreakableWallTile.cpp
+  DefaultTile.cpp
+  FireTile.cpp
+  ISpriteRenderer.cpp
+  Player.cpp
+  Program.cpp
+  Tile.cpp
+  TileManager.cpp
+  TileWrapper.cpp
+  UnbreakableWallTile.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1916 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.Desktop.vcxproj -> C:\Dev\Cohort18-Private\Prog2Final\UndefinedBehavior\FieaGameEngine\build\bin\Game.Desktop\Win32\Release\Game.Desktop.exe
